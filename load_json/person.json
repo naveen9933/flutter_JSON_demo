@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Naveen",
+    "age": "20",
+    "height": "171",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Ravi",
+    "age": "21",
+    "height": "165",
+    "gender": "male",
+    "hair_color": "brown"
+  },
+  {
+    "name": "Emma",
+    "age": "20",
+    "height": "168",
+    "gender": "female",
+    "hair_color": "yellow"
+  },
+  {
+    "name": "James",
+    "age": "18",
+    "height": "160",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Isabella",
+    "age": "20",
+    "height": "170",
+    "gender": "female",
+    "hair_color": "black"
+  }
+]
